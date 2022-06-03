@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é @gabrielieel
+- 👀 Meu email de contato é w.silva11@escola.pr.gov.br
+- 🌱 Eu estou aprendendo a progamar recentemente a liguagem JavaScript e Scratch.
+- 💞️ Eu estou interessado em aprender a progamar novas liguagens.
